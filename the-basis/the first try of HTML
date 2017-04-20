@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>the basic html acknowladge</title>
+</head>
+<body>
+  <h1>网站一级标题</h1>
+
+  <h2>文章一级标题</h2>
+  <h3>文章二级标题</h3>
+    <span>文章作者   </span><span>文章发表时间</span>
+    <p>这是一个很长很长的段落……<img src="https://img6.bdstatic.com/img/image/smallpic/h1.jpg"></p>
+  <h2>另一篇文章一级标题</h2>
+  <h3>文章二级标题</h3>
+    <ul>列表标题1</ul>
+    <ul>列表标题2</ul>
+    <ul>列表标题3</ul>
+
+</body>
+</html>
